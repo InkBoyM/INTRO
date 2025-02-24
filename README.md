@@ -34,4 +34,15 @@ FOLLOW MY SOCAILS!!!!!
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YT button" width="50">
 </a>
 
+<a href="https://bsky.app/profile/inkboym.bsky.social">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/2319px-Bluesky_Logo.svg.png" alt="YT button" width="50">
+</a>
+
+<a href="https://www.threads.net/inkboym">
+  <img src="https://logos-world.net/wp-content/uploads/2023/07/Threads-Logo.png" alt="YT button" width="50">
+</a>
+
+
+anwyas thanks for reading stuff ye bye
+
 
