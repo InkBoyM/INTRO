@@ -1,4 +1,4 @@
-<h1 align="left">WSG chat</h1>
+![image](https://github.com/user-attachments/assets/e4c79d28-bfe9-40f0-97e8-6511586c72e4)<h1 align="left">WSG chat</h1>
 
 I make stuff in mostly HTML to bypass school restrictions or just for fun. Oh and also I post [Youtubes Videos](https://www.youtube.com/@InkBoyM)
 
@@ -26,12 +26,12 @@ FOLLOW MY SOCAILS!!!!!
 
 
 <a href="https://x.com/@InkBoyM">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/640px-X_logo_2023_%28white%29.png" alt="Button Image" width="50">
+  <img src="https://lh5.googleusercontent.com/r1YcUs7pcMPD_v_-7nv0km54_qaFFSPYGha3pSI9OoCEHo39OgstBf8JTlMjYk8thkp4skkDszrzJt79Nrz2zINPXpKNR1FU9m-RV6ABN6fesipR33bKRvN-4rXS0-9zOw=w1280" alt="Button Image" width="50">
 </a>
 
 
 <a href="https://youtube.com/@InkBoyM">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YT button" width="50">
+  <img src="https://lh3.googleusercontent.com/kVTQUzg7WHmo_sPL4hAEKO1Pj7e51uOd5guE-5CT9d4_QBy6jzfGA9ypfZT4n7N4WdPjE981rgSrr9J22ojqoOcQ0Ts6DRasgzI75def_L2cYtP4nCT8REQ6hx3ArKlRNw=w1280" alt="YT button" width="50">
 </a>
 
 <a href="https://bsky.app/profile/inkboym.bsky.social">
