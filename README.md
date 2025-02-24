@@ -1,4 +1,4 @@
- align="left">WSG chat</h1>
+<h1 style="text-align: left;">WSG Chat</h1>
 
 I make stuff in mostly HTML to bypass school restrictions or just for fun. Oh and also I post [Youtubes Videos](https://www.youtube.com/@InkBoyM)
 
