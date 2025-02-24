@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4c79d28-bfe9-40f0-97e8-6511586c72e4)<h1 align="left">WSG chat</h1>
+ align="left">WSG chat</h1>
 
 I make stuff in mostly HTML to bypass school restrictions or just for fun. Oh and also I post [Youtubes Videos](https://www.youtube.com/@InkBoyM)
 
