@@ -20,7 +20,9 @@ I make stuff in mostly HTML to bypass school restrictions or just for fun. Oh an
 But if your still here here are some cool stuff ig
 
 button that works 100% --  
+
 <button style="padding:10px 20px; font-size:16px; background:#007bff; color:white; border:none; border-radius:5px;">E</button>
+
 <span style="color:red">Please also go follow my non existant socails</span>
 
 FOLLOW MY SOCAILS!!!!!
