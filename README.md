@@ -43,9 +43,7 @@ FOLLOW MY SOCAILS!!!!!
   <img src="https://logos-world.net/wp-content/uploads/2023/07/Threads-Logo.png" alt="YT button" width="50">
 </a>
 
-<a href="https://www.random-fun.com">
-  <img src="https://lh4.googleusercontent.com/ZPUqAAH9oSQ4A_W6CO6KQCFsiEyztzY0nfBjFSvw-ycDMwV1JBfYUBI3TfElRgpL5kXXEO013To_nfFVJWFAiQc=w16383" alt="YT button" width="50">
-</a>
+
 
 
 
